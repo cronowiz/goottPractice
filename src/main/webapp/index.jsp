@@ -13,6 +13,7 @@
 	<div class="container">
 		<h1>index.jsp</h1>
 		<div>${loginUser }</div>
+		<h1>충돌테스트 쾅!</h1>
 	</div>
 <jsp:include page="footer.jsp"></jsp:include>	
 </body>
