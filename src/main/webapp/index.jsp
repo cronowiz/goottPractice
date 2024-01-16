@@ -12,7 +12,8 @@
 <jsp:include page="header.jsp"></jsp:include>
 	<div class="container">
 		<h1>index.jsp</h1>
-		<div>${loginUser }</div>
+		<div>여기는 내가 접수한다</div>
+		<h1>화이팅 헤ㅐ</h1>
 	</div>
 <jsp:include page="footer.jsp"></jsp:include>	
 </body>
