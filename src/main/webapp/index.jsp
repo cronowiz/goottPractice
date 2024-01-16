@@ -13,7 +13,7 @@
 	<div class="container">
 		<h1>index.jsp</h1>
 		<div>${loginUser }</div>
-		<h1>kdj 수정 충돌 테스트 </h1>
+		<h1 style='color:#ff0a00; width : 100px; height: 200px'>kdj 수정 충돌 테스트 </h1>
 	</div>
 <jsp:include page="footer.jsp"></jsp:include>	
 </body>
