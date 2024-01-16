@@ -5,10 +5,10 @@ import java.util.List;
 
 import javax.naming.NamingException;
 
-import com.jspminiproj.etc.PagingInfo;
-import com.jspminiproj.etc.UploadedFile;
-import com.jspminiproj.vo.Board;
-import com.jspminiproj.vo.SearchCriteria;
+import com.goottPractice.etc.PagingInfo;
+import com.goottPractice.etc.UploadedFile;
+import com.goottPractice.vo.Board;
+import com.goottPractice.vo.SearchCriteria;
 
 public interface BoardDAO {
 

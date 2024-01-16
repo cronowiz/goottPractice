@@ -9,9 +9,9 @@ import java.util.List;
 
 import javax.naming.NamingException;
 
-import com.jspminiproj.etc.UploadedFile;
-import com.jspminiproj.vo.Member;
-import com.jspminiproj.vo.PointLog;
+import com.goottPractice.etc.UploadedFile;
+import com.goottPractice.vo.Member;
+import com.goottPractice.vo.PointLog;
 
 public class MemberCRUD implements MemberDAO {
 
