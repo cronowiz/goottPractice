@@ -15,8 +15,8 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
     <jsp:include page="header.jsp"></jsp:include>
     <div class="container">
       <h1>index.jsp</h1>
-      <div>${loginUser }</div>
-      <h1>충돌테스트 쾅!</h1>
+      <div>dkdjj</div>
+      <h1>김동진</h1>
     </div>
     <jsp:include page="footer.jsp"></jsp:include>
   </body>
