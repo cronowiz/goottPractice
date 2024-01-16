@@ -16,7 +16,7 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
     <div class="container">
       <h1>index.jsp</h1>
       <div>컨플릭트 내기</div>
-      <div>여기는 내가 접수한다</div>
+      <div style="color:red;">여기는 내가 접수한다</div>
       <h1>지우의 글</h1>
       <h1>화이팅~</h1>
     </div>
