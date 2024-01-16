@@ -7,6 +7,9 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
   <head>
     <meta charset="UTF-8" />
     <title>MiniProject</title>
+    <style>
+      .h1 = border 1px red;
+    </style>
   </head>
   <body>
     <jsp:include page="header.jsp"></jsp:include>
