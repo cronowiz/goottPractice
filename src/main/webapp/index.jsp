@@ -22,19 +22,3 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
     <jsp:include page="footer.jsp"></jsp:include>
   </body>
 </html>
-=======
-<head>
-<meta charset="UTF-8">
-<title>MiniProject</title>
-</head>
-<body>
-<jsp:include page="header.jsp"></jsp:include>
-	<div class="container">
-		<h1>index.jsp</h1>
-		<div>${loginUser }</div>
-		<h1 style='color:#ff0a00; width : 100px; height: 200px'>kdj 수정 충돌 테스트 </h1>
-	</div>
-<jsp:include page="footer.jsp"></jsp:include>	
-</body>
-</html>
->>>>>>> 1dfb77525e091dbda5657ff87dc852495d0d7617
