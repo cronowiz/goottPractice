@@ -7,18 +7,16 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
   <head>
     <meta charset="UTF-8" />
     <title>MiniProject</title>
-    <style>
-      .h1 = border 1px red;
-    </style>
   </head>
   <body>
     <jsp:include page="header.jsp"></jsp:include>
     <div class="container">
       <h1>index.jsp</h1>
-      <div>dkdjj</div>
-      <h1>김동진</h1>
+      <div>컨플릭트 내기</div>
+      <div style="color: red">여기는 내가 접수한다</div>
+      <h1>지우 화이팅</h1>
+      <h1>화이팅~</h1>
     </div>
     <jsp:include page="footer.jsp"></jsp:include>
   </body>
 </html>
-
