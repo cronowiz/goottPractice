@@ -1,4 +1,4 @@
-package com.jspminiproj.etc;
+package com.goottPractice.etc;
 
 import java.util.Properties;
 
