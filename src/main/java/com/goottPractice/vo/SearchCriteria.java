@@ -1,4 +1,4 @@
-package com.jspminiproj.vo;
+package com.goottPractice.vo;
 
 public class SearchCriteria {
 	private String searchWord;

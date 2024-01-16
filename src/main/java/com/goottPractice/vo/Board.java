@@ -1,4 +1,4 @@
-package com.jspminiproj.vo;
+package com.goottPractice.vo;
 
 import java.sql.Timestamp;
 
