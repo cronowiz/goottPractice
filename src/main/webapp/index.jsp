@@ -12,7 +12,8 @@
 <jsp:include page="header.jsp"></jsp:include>
 	<div class="container">
 		<h1>index.jsp</h1>
-		<div>여기는 내가 접수함 ㅇㅅㅇ</div>
+		<div>컨플릭트 내기</div>
+		<p>파이팅 해야지</p>
 	</div>
 	
 <jsp:include page="footer.jsp"></jsp:include>	
