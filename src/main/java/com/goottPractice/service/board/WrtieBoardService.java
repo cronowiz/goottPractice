@@ -18,12 +18,12 @@ import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.apache.commons.io.FileUtils;
 
-import com.jspminiproj.controller.BoardFactory;
-import com.jspminiproj.dao.BoardCRUD;
-import com.jspminiproj.dao.BoardDAO;
-import com.jspminiproj.etc.UploadedFile;
-import com.jspminiproj.service.BoardService;
-import com.jspminiproj.vo.Board;
+import com.goottPractice.controller.BoardFactory;
+import com.goottPractice.dao.BoardCRUD;
+import com.goottPractice.dao.BoardDAO;
+import com.goottPractice.etc.UploadedFile;
+import com.goottPractice.service.BoardService;
+import com.goottPractice.vo.Board;
 
 public class WrtieBoardService implements BoardService {
 

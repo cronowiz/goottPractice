@@ -6,7 +6,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.jspminiproj.controller.BoardFactory;
+import com.goottPractice.controller.BoardFactory;
 
 public interface BoardService {
 	BoardFactory doAction(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException;

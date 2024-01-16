@@ -15,11 +15,11 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.json.simple.JSONObject;
 
-import com.jspminiproj.controller.MemberFactory;
-import com.jspminiproj.dao.MemberCRUD;
-import com.jspminiproj.dao.MemberDAO;
-import com.jspminiproj.service.MemberService;
-import com.jspminiproj.vo.Member;
+import com.goottPractice.controller.MemberFactory;
+import com.goottPractice.dao.MemberCRUD;
+import com.goottPractice.dao.MemberDAO;
+import com.goottPractice.service.MemberService;
+import com.goottPractice.vo.Member;
 
 public class DuplicateUserIdService implements MemberService {
 

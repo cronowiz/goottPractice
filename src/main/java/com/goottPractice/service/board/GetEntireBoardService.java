@@ -9,13 +9,13 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.jspminiproj.controller.BoardFactory;
-import com.jspminiproj.dao.BoardCRUD;
-import com.jspminiproj.dao.BoardDAO;
-import com.jspminiproj.etc.PagingInfo;
-import com.jspminiproj.service.BoardService;
-import com.jspminiproj.vo.Board;
-import com.jspminiproj.vo.SearchCriteria;
+import com.goottPractice.controller.BoardFactory;
+import com.goottPractice.dao.BoardCRUD;
+import com.goottPractice.dao.BoardDAO;
+import com.goottPractice.etc.PagingInfo;
+import com.goottPractice.service.BoardService;
+import com.goottPractice.vo.Board;
+import com.goottPractice.vo.SearchCriteria;
 
 public class GetEntireBoardService implements BoardService {
 

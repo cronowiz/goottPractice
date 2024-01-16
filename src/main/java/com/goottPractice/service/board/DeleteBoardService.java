@@ -11,10 +11,10 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.json.simple.JSONObject;
 
-import com.jspminiproj.controller.BoardFactory;
-import com.jspminiproj.dao.BoardCRUD;
-import com.jspminiproj.dao.BoardDAO;
-import com.jspminiproj.service.BoardService;
+import com.goottPractice.controller.BoardFactory;
+import com.goottPractice.dao.BoardCRUD;
+import com.goottPractice.dao.BoardDAO;
+import com.goottPractice.service.BoardService;
 
 public class DeleteBoardService implements BoardService {
 

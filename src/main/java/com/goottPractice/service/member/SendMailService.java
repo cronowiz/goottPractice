@@ -13,9 +13,9 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.json.simple.JSONObject;
 
-import com.jspminiproj.controller.MemberFactory;
-import com.jspminiproj.etc.SendMail;
-import com.jspminiproj.service.MemberService;
+import com.goottPractice.controller.MemberFactory;
+import com.goottPractice.etc.SendMail;
+import com.goottPractice.service.MemberService;
 
 public class SendMailService implements MemberService {
 

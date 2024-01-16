@@ -17,12 +17,12 @@ import org.apache.commons.fileupload.FileUploadException;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
-import com.jspminiproj.controller.MemberFactory;
-import com.jspminiproj.dao.MemberCRUD;
-import com.jspminiproj.dao.MemberDAO;
-import com.jspminiproj.etc.UploadedFile;
-import com.jspminiproj.service.MemberService;
-import com.jspminiproj.vo.Member;
+import com.goottPractice.controller.MemberFactory;
+import com.goottPractice.dao.MemberCRUD;
+import com.goottPractice.dao.MemberDAO;
+import com.goottPractice.etc.UploadedFile;
+import com.goottPractice.service.MemberService;
+import com.goottPractice.vo.Member;
 
 public class RegisterMemberService implements MemberService {
 

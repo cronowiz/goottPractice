@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.jspminiproj.controller.MemberFactory;
-import com.jspminiproj.service.MemberService;
+import com.goottPractice.controller.MemberFactory;
+import com.goottPractice.service.MemberService;
 
 public class LogoutMemberService implements MemberService {
 
