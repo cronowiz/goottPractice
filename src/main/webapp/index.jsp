@@ -4,22 +4,6 @@ uri="http://java.sun.com/jsp/jstl/core" %> <%@ taglib prefix="fmt"
 uri="http://java.sun.com/jsp/jstl/fmt" %>
 <!DOCTYPE html>
 <html>
-<<<<<<< HEAD
-<head>
-<meta charset="UTF-8">
-<title>MiniProject</title>
-</head>
-<body>
-<jsp:include page="header.jsp"></jsp:include>
-	<div class="container">
-		<h1>index.jsp</h1>
-		<div>${loginUser }</div>
-		<h1>충돌테스트 쾅!</h1>
-	</div>
-<jsp:include page="footer.jsp"></jsp:include>	
-</body>
-</html>
-=======
   <head>
     <meta charset="UTF-8" />
     <title>MiniProject</title>
@@ -29,9 +13,8 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
     <div class="container">
       <h1>index.jsp</h1>
       <div>${loginUser }</div>
-      <h1>kdj 수정 충돌 테스트</h1>
+      <h1>충돌테스트 쾅!</h1>
     </div>
     <jsp:include page="footer.jsp"></jsp:include>
   </body>
 </html>
->>>>>>> b92c026f3e7bdddad42a268cf04dc2d204879924
