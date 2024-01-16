@@ -4,13 +4,9 @@ uri="http://java.sun.com/jsp/jstl/core" %> <%@ taglib prefix="fmt"
 uri="http://java.sun.com/jsp/jstl/fmt" %>
 <!DOCTYPE html>
 <html>
-  <<<<<<< HEAD
   <head>
     <meta charset="UTF-8" />
     <title>MiniProject</title>
-    <style>
-      .h1 = border 1px red;
-    </style>
   </head>
   <body>
     <jsp:include page="header.jsp"></jsp:include>
