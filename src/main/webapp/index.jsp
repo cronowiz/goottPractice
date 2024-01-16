@@ -20,7 +20,6 @@ uri="http://java.sun.com/jsp/jstl/fmt" %>
       <h1>지우의 글</h1>
       <h1>화이팅~</h1>
     </div>
-
     <jsp:include page="footer.jsp"></jsp:include>
   </body>
 </html>
